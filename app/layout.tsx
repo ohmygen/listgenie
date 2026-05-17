@@ -31,6 +31,9 @@ export const metadata: Metadata = {
     description:
       "Calculate exact fees and net profit for Etsy, Poshmark, Mercari, Depop, and eBay in seconds.",
   },
+  other: {
+    "google-adsense-account": "ca-pub-5053283647087578",
+  },
 };
 
 export default function RootLayout({
